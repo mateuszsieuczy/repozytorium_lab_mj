@@ -16,5 +16,8 @@ Celem projektu jest stopniowe poznanie podstaw:
 - uwierzytelniania użytkowników,
 - podstaw API REST.
 
+ ## Autor:
+ Mateusz Jaroszuk
+
 > Projekt „Biblioteka” jest projektem dydaktycznym i nie może zostać
 > wykorzystany jako temat projektu zaliczeniowego.
